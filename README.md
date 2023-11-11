@@ -9,7 +9,8 @@
 - **定义**: MongoDB 是一个基于文档的 NoSQL 数据库。
 - **作用**: MongoDB 用于存储和检索应用程序的数据。在 MEVN 栈中，它通常用于存储应用程序的数据，如用户信息、交易数据等。
 - **关联**
-  - **GraphQL**: 作为 REST API 的一个替代方案，GraphQL 允许前端更灵活地查询所需的数据，减少不必要的数据传输。
+  - **GraphQL API**: 作为 REST API 的一个替代方案，GraphQL 允许前端更灵活地查询所需的数据，减少不必要的数据传输。
+  - **Apollo GraphQL**：Apollo GraphQL 是一个全面的 GraphQL 实现，提供了服务端和客户端的解决方案，以及各种工具和库来处理 GraphQL 查询
 
 ### Express
 
